@@ -1,0 +1,6 @@
+.vs
+*.opendb
+*.sdf
+Release
+Debug
+.fuse_*
